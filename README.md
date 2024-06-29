@@ -1,7 +1,7 @@
 # Sheets-Info
 Node.js/Express app (with EJS frontend) that integrates with Google Sheets to read/update data.
 
-##Setup
+## Setup
 Add a file to the root of this project called "credentials.json" using Google Cloud Platform Services.
 Now, run `npm install` to install dependencies
 
